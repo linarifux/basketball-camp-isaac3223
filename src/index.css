@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* In your src/index.css or src/App.css file */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Add to index.css or global styles */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(40px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+.animate-fadeIn {
+  animation: fadeIn 0.8s;
+}
+
+
+button{
+  cursor: pointer;
+}

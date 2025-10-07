@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', Arial, sans-serif;
+  background: linear-gradient(120deg, #0a0a2a 60%, #1a1a40 100%);
+  min-height: 100vh;
+}
+
+.text-red-300 {
+  color: #fca5a5;
+  font-size: 2rem;
+  margin-top: 2rem;
+  text-align: center;
+}
