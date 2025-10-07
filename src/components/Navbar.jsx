@@ -10,7 +10,7 @@ function Navbar() {
             <path d="M16 1 v30 M1 16 h30 M5 5 l22 22 M27 5 l-22 22" stroke="#222" strokeWidth="1" fill="none"/>
           </svg>
         </span>
-        <span className="text-2xl font-bold text-white tracking-wide">HOOPS DYNASTY</span>
+        <span className="text-2xl font-bold text-white tracking-wide"><a href="#home">HOOPS DYNASTY</a></span>
       </div>
       <ul className="flex gap-8 list-none m-0 p-0">
         <li>

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section className="relative w-full h-[70vh] flex items-center justify-center overflow-hidden">
+    <section className="relative w-full h-[70vh] flex items-center justify-center overflow-hidden" id='home'>
       <video
         className="absolute top-0 left-0 w-full h-full object-cover z-0 brightness-50 blur-[2px]"
         src={'../../src/assets/37104948.mp4'}
