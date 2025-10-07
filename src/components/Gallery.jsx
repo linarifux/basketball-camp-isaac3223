@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const categories = [
   { key: 'all', label: 'All' },
   { key: 'dunks', label: 'Dunks' },
-  { key: 'shooting', label: 'Shooting' },
+  { key: 'camp-life', label: 'Camp Life' },
   { key: 'dribbling', label: 'Dribbling' },
   { key: 'teamplay', label: 'Team Play' },
   { key: 'fitness', label: 'Fitness' },
@@ -12,27 +12,27 @@ const categories = [
 
 const images = [
   {
-    src: 'https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&w=600&q=80',
-    alt: 'Shooting action',
-    category: 'shooting',
+    src: '/images/camp-life.png',
+    alt: 'Camp Life',
+    category: 'camp-life',
   },
   {
-    src: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80',
+    src: '/images/drills.png',
     alt: 'Dribbling drill',
     category: 'dribbling',
   },
   {
-    src: 'https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=600&q=80',
+    src: '/images/team.png',
     alt: 'Team play',
     category: 'teamplay',
   },
   {
-    src: 'https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=600&q=80',
+    src: '/images/focus.png',
     alt: 'Fitness training',
     category: 'fitness',
   },
   {
-    src: 'https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=600&q=80',
+    src: '/images/dunk.png',
     alt: 'Dunk shot',
     category: 'dunks',
   },
@@ -47,7 +47,7 @@ const images = [
     category: 'shooting',
   },
   {
-    src: 'https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=600&q=80',
+    src: '/images/victory.png',
     alt: 'Team celebration',
     category: 'teamplay',
   },

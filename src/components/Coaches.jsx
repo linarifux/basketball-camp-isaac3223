@@ -4,7 +4,7 @@ const coaches = [
   {
     name: 'Sarah "Clutch" Chen',
     role: 'Shooting Coach',
-    img: 'https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&w=800&q=80',
+    img: '/images/coach-2.png',
     about: [
       "Sarah is renowned for her precision shooting and clutch performances in high-pressure games.",
       "She has played professionally overseas and brings a wealth of experience to our camp.",
@@ -14,7 +14,7 @@ const coaches = [
   {
     name: 'David "Diesel" Jones',
     role: 'Defense Coach',
-    img: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80',
+    img: '/images/coach-1.png',
     about: [
       "David is a defensive mastermind, known for his relentless energy and strategic approach.",
       "He has coached at both collegiate and national levels, developing top-tier defenders.",
@@ -22,19 +22,19 @@ const coaches = [
     ],
   },
   {
-    name: 'Maria "Mind" Garcia',
+    name: 'Steve "Mind" Hill',
     role: 'Strategy Coach',
-    img: 'https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=800&q=80',
+    img: '/images/coach-3.png',
     about: [
-      "Maria is celebrated for her basketball IQ and tactical expertise.",
-      "She has led teams to multiple championships and specializes in game planning and in-game adjustments.",
-      "Maria’s sessions help players read the game, make smart decisions, and execute winning strategies."
+      "Steve is celebrated for his basketball IQ and tactical expertise.",
+      "He has led teams to multiple championships and specializes in game planning and in-game adjustments.",
+      "Steve’s sessions help players read the game, make smart decisions, and execute winning strategies."
     ],
   },
   {
     name: 'Coach Lee',
     role: 'Fitness Coach',
-    img: 'https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=800&q=80',
+    img: '/images/coach-4.png',
     about: [
       "Coach Lee is a certified trainer focused on basketball-specific conditioning and injury prevention.",
       "He has worked with athletes at all levels, from youth to professional.",

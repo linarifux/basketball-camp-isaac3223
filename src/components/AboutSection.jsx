@@ -4,22 +4,22 @@ const features = [
   {
     title: 'Elite Coaching',
     desc: 'Train with experienced coaches who have played and coached at the highest levels.',
-    img: 'https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&w=400&q=80',
+    img: '/images/elite-coaching.png',
   },
   {
     title: 'Skill Development',
     desc: 'Personalized drills and sessions to improve shooting, dribbling, and defense.',
-    img: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80',
+    img: '/images/skill-development.png',
   },
   {
     title: 'Competitive Games',
     desc: 'Participate in daily scrimmages and tournaments to test your skills.',
-    img: 'https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80',
+    img: '/images/competitive-games.png',
   },
   {
     title: 'Fitness & Conditioning',
     desc: 'Strength and agility workouts designed for basketball athletes.',
-    img: 'https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80',
+    img: '/images/fitness-conditioning.png',
   },
 ];
 
