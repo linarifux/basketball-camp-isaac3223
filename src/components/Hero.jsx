@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="relative w-full h-[70vh] flex items-center justify-center overflow-hidden" id='home'>
       <video
         className="absolute top-0 left-0 w-full h-full object-cover z-0 brightness-50 blur-[2px]"
-        src='../../public/hero.mp4'
+        src='/hero.mp4'
         autoPlay
         loop
         muted
